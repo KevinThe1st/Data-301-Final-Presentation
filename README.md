@@ -1,1 +1,1 @@
-
+Exploratory data analysis and machine learning model for predicting the genre of a song from various attributes (number of stanzas, pitch, etc.).  Implemented in python with the pandas and scikit-learn libraries. The spotify API was used to assist in this project.
